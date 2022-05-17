@@ -1,7 +1,6 @@
-<img src="https://gyazo.com/b1c358a5c366bea96dc20795d49ab71c" width="30px">
 
 
-<p><em>A bachelor student majoring in Computer Science. 😊</br>
+<p><em>Upcoming bachelor student majoring in Computer Science. 😊</br>
 </em></p>
 
 
