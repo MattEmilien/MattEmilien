@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/3og0IV7MOCfnm85iRa"/>
+<iframe src="https://giphy.com/embed/3og0IV7MOCfnm85iRa" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-stars-universe-3og0IV7MOCfnm85iRa">via GIPHY</a></p>
 
 
 <p><em>A bachelor student majoring in Computer Science. 😊</br>
