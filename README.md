@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/3og0IV7MOCfnm85iRa/giphy.mp4?cid=ecf05e47zapthbkdnj1dhuroclrl819ute93n6ymnbgtek2t&rid=giphy.mp4&ct=g" width="30px">
+<img src="https://gyazo.com/b1c358a5c366bea96dc20795d49ab71c" width="30px">
 
 
 <p><em>A bachelor student majoring in Computer Science. 😊</br>
