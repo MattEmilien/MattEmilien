@@ -1,6 +1,6 @@
 
 
-<p><em>Upcoming bachelor student majoring in Computer Science. 😊</br>
+<p><em>Fullstack Software Engineer/Network Security Researcher😊</br>
 </em></p>
 
 
